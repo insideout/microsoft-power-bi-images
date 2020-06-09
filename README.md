@@ -1,1 +1,1 @@
-# microsoft-power-bi-images
+# Image Repository
